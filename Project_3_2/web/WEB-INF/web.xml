@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : web.xml
+    Created on : 11 Δεκέμβριος 2011, 2:33 μμ
+    Author     : ioanna
+    Description:
+        Purpose of the document follows.
+-->
+
+
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	  xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" version="2.5" xmlns="http://java.sun.com/xml/ns/javaee">
+    <context-param>
+        <param-name>CafePrice</param-name>
+        <param-value>18.5</param-value>
+    </context-param>
+        <context-param>
+        <param-name>SugarPrice</param-name>
+        <param-value>6.95</param-value>
+    </context-param>
+    <context-param>
+        <param-name>WaterPrice</param-name>
+        <param-value>1.29</param-value>
+    </context-param>
+</web-app>
+
