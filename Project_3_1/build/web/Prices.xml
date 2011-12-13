@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : Prices.xml
+    Created on : 7 Δεκέμβριος 2011, 6:07 μμ
+    Author     : ioanna
+    Description:
+        Purpose of the document follows.
+-->
+
+<root>
+    <item>
+        <Product>Cafe</Product>
+        <Price>18.50</Price>
+    </item>>
+    
+    <item>
+        <Product>Sugar</Product>
+        <Price>6.95</Price>
+    </item>
+    
+    <item>
+        <Product>Water</Product>
+        <Price>1.29</Price>
+    </item>
+
+</root>
